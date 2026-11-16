@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TEHILLA</string>
+    <string name="studio_tagline">TEHILLA WORSHIP STUDIO</string>
+    <string name="home_subtitle">Prepare Sunday\'s setlist with beginner-friendly stems, BPM, and chords.</string>
+    <string name="cta_analyze_new_song">Analyze a New Song</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_my_songs">My Songs</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_profile">Profile</string>
+    <string name="badge_sample_preview">SAMPLE PREVIEW</string>
+    <string name="badge_real_ai">REAL AI ANALYSIS</string>
+    <string name="error_invalid_audio_file">Please select a valid MP3 or WAV audio file.</string>
+    <string name="error_upload_failed">Analysis upload could not be completed. Please try again.</string>
+</resources>
